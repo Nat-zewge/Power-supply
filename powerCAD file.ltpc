@@ -340,7 +340,7 @@
       <InductorRipplePercentDesired>40</InductorRipplePercentDesired>
       <Lo>1.2E-06</Lo>
       <DCR>0.004</DCR>
-      <InductorManufacturer></InductorManufacturer>
+      <InductorManufacturer>nANA</InductorManufacturer>
       <InductorPartNumber></InductorPartNumber>
       <InductorLength>0</InductorLength>
       <InductorWidth>0</InductorWidth>
@@ -467,9 +467,9 @@
       <SlopeCompSlopePointForDesign>0</SlopeCompSlopePointForDesign>
       <TonMin>9E-08</TonMin>
       <ToffMin>0</ToffMin>
-      <ProjectName></ProjectName>
+      <ProjectName>SOPHIA POWER SUPPLY</ProjectName>
       <ProjectDate></ProjectDate>
-      <ProjectDesigner></ProjectDesigner>
+      <ProjectDesigner>NATNAEL SHEWANGIZAW</ProjectDesigner>
       <DividerSelection></DividerSelection>
       <IlimSelection></IlimSelection>
       <RinSense>0</RinSense>
