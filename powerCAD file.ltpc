@@ -9,7 +9,7 @@
       <NomVin>12</NomVin>
       <MaxVin>15</MaxVin>
       <SwitchingFreq>493000</SwitchingFreq>
-      <OutputVol1>6.94</OutputVol1>
+      <OutputVol1>7.4</OutputVol1>
       <OutputCur1>15</OutputCur1>
       <OutputVol2>0</OutputVol2>
       <OutputCur2>0</OutputCur2>
@@ -325,20 +325,20 @@
     <OutputRailData>
       <Freqmin>50</Freqmin>
       <Freqmax>900</Freqmax>
-      <VinToCalc>12</VinToCalc>
+      <VinToCalc>9</VinToCalc>
       <IoToCalc>12</IoToCalc>
       <MinIoToCalc>0</MinIoToCalc>
       <MaxVin>15</MaxVin>
       <NomVin>12</NomVin>
       <MinVin>9</MinVin>
       <SwitchingFreq>493000</SwitchingFreq>
-      <OutputVol>6.94</OutputVol>
+      <OutputVol>7.4</OutputVol>
       <OutputCur>15</OutputCur>
       <NPh>1</NPh>
       <NPhSlave>0</NPhSlave>
       <NIc>1</NIc>
       <InductorRipplePercentDesired>40</InductorRipplePercentDesired>
-      <Lo>1.2E-06</Lo>
+      <Lo>1E-06</Lo>
       <DCR>0.004</DCR>
       <InductorManufacturer></InductorManufacturer>
       <InductorPartNumber></InductorPartNumber>
@@ -376,8 +376,8 @@
       <CinCeramicAtNoVoltage>2.2E-05</CinCeramicAtNoVoltage>
       <CinCeramicDerated>0</CinCeramicDerated>
       <CinCeramicVoltageRating>0</CinCeramicVoltageRating>
-      <Cob>0.00021999999999999998</Cob>
-      <ESRb>0.01</ESRb>
+      <Cob>3.9E-05</Cob>
+      <ESRb>0.005</ESRb>
       <ESLb>2E-09</ESLb>
       <Numb>1</Numb>
       <BulkCapacitorManufacturer></BulkCapacitorManufacturer>
@@ -389,10 +389,10 @@
       <BulkCapacitorUserNote />
       <CobAtHalfRated>0</CobAtHalfRated>
       <CobAtFullRated>0</CobAtFullRated>
-      <CobAtNoVoltage>0.00021999999999999998</CobAtNoVoltage>
+      <CobAtNoVoltage>2.2E-05</CobAtNoVoltage>
       <CobDerated>0</CobDerated>
       <CobVoltageRating>0</CobVoltageRating>
-      <Coc>9.9999999999999991E-06</Coc>
+      <Coc>7.4999999999999993E-06</Coc>
       <ESRc>0.003</ESRc>
       <ESLc>8.0000000000000013E-10</ESLc>
       <Numc>1</Numc>
@@ -405,23 +405,23 @@
       <CeramicCapacitorUserNote />
       <CocAtHalfRated>0</CocAtHalfRated>
       <CocAtFullRated>0</CocAtFullRated>
-      <CocAtNoVoltage>9.9999999999999991E-06</CocAtNoVoltage>
+      <CocAtNoVoltage>2.2E-05</CocAtNoVoltage>
       <CocDerated>0</CocDerated>
       <CocVoltageRating>0</CocVoltageRating>
       <CapacitorDeratingEnabled>false</CapacitorDeratingEnabled>
-      <Cth>2.2000000000000003E-09</Cth>
-      <Cthp>2.2000000000000004E-10</Cthp>
-      <Rth>7150</Rth>
+      <Cth>2E-09</Cth>
+      <Cthp>8.2E-11</Cthp>
+      <Rth>2430</Rth>
       <Ccomp>0</Ccomp>
       <RfbTopActual>60400</RfbTopActual>
-      <RfbBotActual>7870</RfbBotActual>
-      <CfbTopActual>0</CfbTopActual>
-      <CfbBotActual>0</CfbBotActual>
+      <RfbBotActual>7320</RfbBotActual>
+      <CfbTopActual>8.2E-11</CfbTopActual>
+      <CfbBotActual>4.3E-10</CfbBotActual>
       <RfbBotTolerance>0</RfbBotTolerance>
       <RfbTopTolerance>0</RfbTopTolerance>
-      <FcDesired>43750</FcDesired>
+      <FcDesired>40000</FcDesired>
       <PhaseBoostDesired>10</PhaseBoostDesired>
-      <PhaseMarginDesired>60</PhaseMarginDesired>
+      <PhaseMarginDesired>55</PhaseMarginDesired>
       <Ilim>0.075</Ilim>
       <VRNG>0</VRNG>
       <MarginIoLimit>150</MarginIoLimit>
@@ -455,7 +455,7 @@
       <CurrentSensingConfigurationType>0</CurrentSensingConfigurationType>
       <SynchronousOrNonSynchronousConfigurationType>0</SynchronousOrNonSynchronousConfigurationType>
       <CompConfigurationType>0</CompConfigurationType>
-      <SwitchingFreqDesired>500000</SwitchingFreqDesired>
+      <SwitchingFreqDesired>493000</SwitchingFreqDesired>
       <Vfreq>0</Vfreq>
       <Rfreq>69800</Rfreq>
       <Vb>0</Vb>
