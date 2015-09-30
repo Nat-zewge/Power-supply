@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <ConverterSpecs>
+    <ConverterSpec>
+      <LastSavedFilesCultureInfo>en-GB</LastSavedFilesCultureInfo>
+      <PartName>LTC3807</PartName>
+      <OutputNum>One</OutputNum>
+      <MinVin>9</MinVin>
+      <NomVin>12</NomVin>
+      <MaxVin>15</MaxVin>
+      <SwitchingFreq>493000</SwitchingFreq>
+      <OutputVol1>6.94</OutputVol1>
+      <OutputCur1>15</OutputCur1>
+      <OutputVol2>0</OutputVol2>
+      <OutputCur2>0</OutputCur2>
+      <OutputVol3>0</OutputVol3>
+      <OutputCur3>0</OutputCur3>
+      <OutputVol4>0</OutputVol4>
+      <OutputCur4>0</OutputCur4>
+      <NPara>1</NPara>
+      <NomSwitchingFreq>350000</NomSwitchingFreq>
+      <Topology>Buck</Topology>
+      <Type>Controller</Type>
+      <BurstMode>false</BurstMode>
+      <Synchronous>false</Synchronous>
+      <Isolated>false</Isolated>
+      <Run>false</Run>
+      <ExtClock>false</ExtClock>
+      <Tracking>false</Tracking>
+      <RemoteSensing>false</RemoteSensing>
+      <MarginControl>false</MarginControl>
+      <PowerGood>false</PowerGood>
+      <PolyPhase>false</PolyPhase>
+      <I2CorPMBusInterface>false</I2CorPMBusInterface>
+      <UserEnteredPartNumber>0</UserEnteredPartNumber>
+      <CurrentSensingConfiguration>0</CurrentSensingConfiguration>
+      <TopFetCH1PartName>FDMS7570S</TopFetCH1PartName>
+      <NumOfCH1TopMosfets>1</NumOfCH1TopMosfets>
+      <RdsOnTopCH1>0.00222</RdsOnTopCH1>
+      <QgTopCH1>2.49E-08</QgTopCH1>
+      <QgsTopCH1>9.9E-09</QgsTopCH1>
+      <QgdTopCH1>5.3E-09</QgdTopCH1>
+      <CossTopCH1>9.12E-10</CossTopCH1>
+      <RdsOn2TopCH1>0.0016</RdsOn2TopCH1>
+      <Qg2TopCH1>4.9E-08</Qg2TopCH1>
+      <VmillerTopCH1>3</VmillerTopCH1>
+      <VthTopCH1>2.1</VthTopCH1>
+      <RgateTopCH1>1.2</RgateTopCH1>
+      <TopMosfetVendorCH1>Fairchild</TopMosfetVendorCH1>
+      <VdssTopCH1>25</VdssTopCH1>
+      <VdiodeTopCH1>0.78</VdiodeTopCH1>
+      <TopMosfetLengthCH1>6</TopMosfetLengthCH1>
+      <TopMosfetWidthCH1>5</TopMosfetWidthCH1>
+      <TopMosfetHeightCH1>1.1</TopMosfetHeightCH1>
+      <TopMosfetPackageCH1>POWER 56</TopMosfetPackageCH1>
+      <TopMosfetUserNoteCH1 />
+      <TopFetCH2PartName />
+      <NumOfCH2TopMosfets>0</NumOfCH2TopMosfets>
+      <RdsOnTopCH2>0</RdsOnTopCH2>
+      <QgTopCH2>0</QgTopCH2>
+      <QgsTopCH2>0</QgsTopCH2>
+      <QgdTopCH2>0</QgdTopCH2>
+      <CossTopCH2>0</CossTopCH2>
+      <RdsOn2TopCH2>0</RdsOn2TopCH2>
+      <Qg2TopCH2>0</Qg2TopCH2>
+      <VmillerTopCH2>0</VmillerTopCH2>
+      <VthTopCH2>0</VthTopCH2>
+      <RgateTopCH2>0</RgateTopCH2>
+      <TopMosfetVendorCH2 />
+      <VdssTopCH2>0</VdssTopCH2>
+      <VdiodeTopCH2>0</VdiodeTopCH2>
+      <TopMosfetLengthCH2>0</TopMosfetLengthCH2>
+      <TopMosfetWidthCH2>0</TopMosfetWidthCH2>
+      <TopMosfetHeightCH2>0</TopMosfetHeightCH2>
+      <TopMosfetPackageCH2 />
+      <TopMosfetUserNoteCH2 />
+      <TopFetCH3PartName />
+      <NumOfCH3TopMosfets>0</NumOfCH3TopMosfets>
+      <RdsOnTopCH3>0</RdsOnTopCH3>
+      <QgTopCH3>0</QgTopCH3>
+      <QgsTopCH3>0</QgsTopCH3>
+      <QgdTopCH3>0</QgdTopCH3>
+      <CossTopCH3>0</CossTopCH3>
+      <RdsOn2TopCH3>0</RdsOn2TopCH3>
+      <Qg2TopCH3>0</Qg2TopCH3>
+      <VmillerTopCH3>0</VmillerTopCH3>
+      <VthTopCH3>0</VthTopCH3>
+      <RgateTopCH3>0</RgateTopCH3>
+      <TopMosfetVendorCH3 />
+      <VdssTopCH3>0</VdssTopCH3>
+      <VdiodeTopCH3>0</VdiodeTopCH3>
+      <TopMosfetLengthCH3>0</TopMosfetLengthCH3>
+      <TopMosfetWidthCH3>0</TopMosfetWidthCH3>
+      <TopMosfetHeightCH3>0</TopMosfetHeightCH3>
+      <TopMosfetPackageCH3 />
+      <TopMosfetUserNoteCH3 />
+      <BotFetCH1PartName>FDMS7570S</BotFetCH1PartName>
+      <NumOfCH1BotMosfets>1</NumOfCH1BotMosfets>
+      <RdsBotCH1>0.00222</RdsBotCH1>
+      <QgBotCH1>2.49E-08</QgBotCH1>
+      <RgateBotCH1>1.2</RgateBotCH1>
+      <VdiodeBotFetsCH1>0.78</VdiodeBotFetsCH1>
+      <BotMosfetVendorCH1>Fairchild</BotMosfetVendorCH1>
+      <VdssBotCH1>25</VdssBotCH1>
+      <QgdBotCH1>5.3E-09</QgdBotCH1>
+      <CossBotCH1>9.12E-10</CossBotCH1>
+      <Rds2BotCH1>0.0016</Rds2BotCH1>
+      <Qg2BotCH1>4.9E-08</Qg2BotCH1>
+      <QgsBotCH1>9.9E-09</QgsBotCH1>
+      <VmillerBotCH1>3</VmillerBotCH1>
+      <VthBotCH1>2.1</VthBotCH1>
+      <BotMosfetLengthCH1>6</BotMosfetLengthCH1>
+      <BotMosfetWidthCH1>5</BotMosfetWidthCH1>
+      <BotMosfetHeightCH1>1.1</BotMosfetHeightCH1>
+      <BotMosfetPackageCH1>POWER 56</BotMosfetPackageCH1>
+      <BotMosfetUserNoteCH1 />
+      <BotFetCH2PartName />
+      <NumOfCH2BotMosfets>0</NumOfCH2BotMosfets>
+      <RdsBotCH2>0</RdsBotCH2>
+      <QgBotCH2>0</QgBotCH2>
+      <RgateBotCH2>0</RgateBotCH2>
+      <VdiodeBotFetsCH2>0</VdiodeBotFetsCH2>
+      <BotMosfetVendorCH2 />
+      <VdssBotCH2>0</VdssBotCH2>
+      <QgdBotCH2>0</QgdBotCH2>
+      <CossBotCH2>0</CossBotCH2>
+      <Rds2BotCH2>0</Rds2BotCH2>
+      <Qg2BotCH2>0</Qg2BotCH2>
+      <QgsBotCH2>0</QgsBotCH2>
+      <VmillerBotCH2>0</VmillerBotCH2>
+      <VthBotCH2>0</VthBotCH2>
+      <BotMosfetLengthCH2>0</BotMosfetLengthCH2>
+      <BotMosfetWidthCH2>0</BotMosfetWidthCH2>
+      <BotMosfetHeightCH2>0</BotMosfetHeightCH2>
+      <BotMosfetPackageCH2 />
+      <BotMosfetUserNoteCH2 />
+      <BotFetCH3PartName />
+      <NumOfCH3BotMosfets>0</NumOfCH3BotMosfets>
+      <RdsBotCH3>0</RdsBotCH3>
+      <QgBotCH3>0</QgBotCH3>
+      <RgateBotCH3>0</RgateBotCH3>
+      <VdiodeBotFetsCH3>0</VdiodeBotFetsCH3>
+      <BotMosfetVendorCH3 />
+      <VdssBotCH3>0</VdssBotCH3>
+      <QgdBotCH3>0</QgdBotCH3>
+      <CossBotCH3>0</CossBotCH3>
+      <Rds2BotCH3>0</Rds2BotCH3>
+      <Qg2BotCH3>0</Qg2BotCH3>
+      <QgsBotCH3>0</QgsBotCH3>
+      <VmillerBotCH3>0</VmillerBotCH3>
+      <VthBotCH3>0</VthBotCH3>
+      <BotMosfetLengthCH3>0</BotMosfetLengthCH3>
+      <BotMosfetWidthCH3>0</BotMosfetWidthCH3>
+      <BotMosfetHeightCH3>0</BotMosfetHeightCH3>
+      <BotMosfetPackageCH3 />
+      <BotMosfetUserNoteCH3 />
+      <ControlFetCH1PartNameStage2 />
+      <NumOfCH1ControlMosfetsStage2>0</NumOfCH1ControlMosfetsStage2>
+      <RdsOnControlCH1Stage2>0</RdsOnControlCH1Stage2>
+      <QgControlCH1Stage2>0</QgControlCH1Stage2>
+      <QgsControlCH1Stage2>0</QgsControlCH1Stage2>
+      <QgdControlCH1Stage2>0</QgdControlCH1Stage2>
+      <CossControlCH1Stage2>0</CossControlCH1Stage2>
+      <RdsOn2ControlCH1Stage2>0</RdsOn2ControlCH1Stage2>
+      <Qg2ControlCH1Stage2>0</Qg2ControlCH1Stage2>
+      <VmillerControlCH1Stage2>0</VmillerControlCH1Stage2>
+      <VthControlCH1Stage2>0</VthControlCH1Stage2>
+      <RgateControlCH1Stage2>0</RgateControlCH1Stage2>
+      <ControlMosfetVendorCH1Stage2 />
+      <VdssControlCH1Stage2>0</VdssControlCH1Stage2>
+      <VdiodeControlCH1Stage2>0</VdiodeControlCH1Stage2>
+      <ControlMosfetLengthCH1Stage2>0</ControlMosfetLengthCH1Stage2>
+      <ControlMosfetWidthCH1Stage2>0</ControlMosfetWidthCH1Stage2>
+      <ControlMosfetHeightCH1Stage2>0</ControlMosfetHeightCH1Stage2>
+      <ControlMosfetPackageCH1Stage2 />
+      <ControlMosfetUserNoteCH1Stage2 />
+      <ControlFetCH2PartNameStage2 />
+      <NumOfCH2ControlMosfetsStage2>0</NumOfCH2ControlMosfetsStage2>
+      <RdsOnControlCH2Stage2>0</RdsOnControlCH2Stage2>
+      <QgControlCH2Stage2>0</QgControlCH2Stage2>
+      <QgsControlCH2Stage2>0</QgsControlCH2Stage2>
+      <QgdControlCH2Stage2>0</QgdControlCH2Stage2>
+      <CossControlCH2Stage2>0</CossControlCH2Stage2>
+      <RdsOn2ControlCH2Stage2>0</RdsOn2ControlCH2Stage2>
+      <Qg2ControlCH2Stage2>0</Qg2ControlCH2Stage2>
+      <VmillerControlCH2Stage2>0</VmillerControlCH2Stage2>
+      <VthControlCH2Stage2>0</VthControlCH2Stage2>
+      <RgateControlCH2Stage2>0</RgateControlCH2Stage2>
+      <ControlMosfetVendorCH2Stage2 />
+      <VdssControlCH2Stage2>0</VdssControlCH2Stage2>
+      <VdiodeControlCH2Stage2>0</VdiodeControlCH2Stage2>
+      <ControlMosfetLengthCH2Stage2>0</ControlMosfetLengthCH2Stage2>
+      <ControlMosfetWidthCH2Stage2>0</ControlMosfetWidthCH2Stage2>
+      <ControlMosfetHeightCH2Stage2>0</ControlMosfetHeightCH2Stage2>
+      <ControlMosfetPackageCH2Stage2 />
+      <ControlMosfetUserNoteCH2Stage2 />
+      <ControlFetCH3PartNameStage2 />
+      <NumOfCH3ControlMosfetsStage2>0</NumOfCH3ControlMosfetsStage2>
+      <RdsOnControlCH3Stage2>0</RdsOnControlCH3Stage2>
+      <QgControlCH3Stage2>0</QgControlCH3Stage2>
+      <QgsControlCH3Stage2>0</QgsControlCH3Stage2>
+      <QgdControlCH3Stage2>0</QgdControlCH3Stage2>
+      <CossControlCH3Stage2>0</CossControlCH3Stage2>
+      <RdsOn2ControlCH3Stage2>0</RdsOn2ControlCH3Stage2>
+      <Qg2ControlCH3Stage2>0</Qg2ControlCH3Stage2>
+      <VmillerControlCH3Stage2>0</VmillerControlCH3Stage2>
+      <VthControlCH3Stage2>0</VthControlCH3Stage2>
+      <RgateControlCH3Stage2>0</RgateControlCH3Stage2>
+      <ControlMosfetVendorCH3Stage2 />
+      <VdssControlCH3Stage2>0</VdssControlCH3Stage2>
+      <VdiodeControlCH3Stage2>0</VdiodeControlCH3Stage2>
+      <ControlMosfetLengthCH3Stage2>0</ControlMosfetLengthCH3Stage2>
+      <ControlMosfetWidthCH3Stage2>0</ControlMosfetWidthCH3Stage2>
+      <ControlMosfetHeightCH3Stage2>0</ControlMosfetHeightCH3Stage2>
+      <ControlMosfetPackageCH3Stage2 />
+      <ControlMosfetUserNoteCH3Stage2 />
+      <SyncFetCH1PartNameStage2 />
+      <NumOfCH1SyncMosfetsStage2>0</NumOfCH1SyncMosfetsStage2>
+      <RdsSyncCH1Stage2>0</RdsSyncCH1Stage2>
+      <QgSyncCH1Stage2>0</QgSyncCH1Stage2>
+      <RgateSyncCH1Stage2>0</RgateSyncCH1Stage2>
+      <VdiodeSyncFetsCH1Stage2>0</VdiodeSyncFetsCH1Stage2>
+      <SyncMosfetVendorCH1Stage2 />
+      <VdssSyncCH1Stage2>0</VdssSyncCH1Stage2>
+      <QgdSyncCH1Stage2>0</QgdSyncCH1Stage2>
+      <CossSyncCH1Stage2>0</CossSyncCH1Stage2>
+      <Rds2SyncCH1Stage2>0</Rds2SyncCH1Stage2>
+      <Qg2SyncCH1Stage2>0</Qg2SyncCH1Stage2>
+      <QgsSyncCH1Stage2>0</QgsSyncCH1Stage2>
+      <VmillerSyncCH1Stage2>0</VmillerSyncCH1Stage2>
+      <VthSyncCH1Stage2>0</VthSyncCH1Stage2>
+      <SyncMosfetLengthCH1Stage2>0</SyncMosfetLengthCH1Stage2>
+      <SyncMosfetWidthCH1Stage2>0</SyncMosfetWidthCH1Stage2>
+      <SyncMosfetHeightCH1Stage2>0</SyncMosfetHeightCH1Stage2>
+      <SyncMosfetPackageCH1Stage2 />
+      <SyncMosfetUserNoteCH1Stage2 />
+      <SyncFetCH2PartNameStage2 />
+      <NumOfCH2SyncMosfetsStage2>0</NumOfCH2SyncMosfetsStage2>
+      <RdsSyncCH2Stage2>0</RdsSyncCH2Stage2>
+      <QgSyncCH2Stage2>0</QgSyncCH2Stage2>
+      <RgateSyncCH2Stage2>0</RgateSyncCH2Stage2>
+      <VdiodeSyncFetsCH2Stage2>0</VdiodeSyncFetsCH2Stage2>
+      <SyncMosfetVendorCH2Stage2 />
+      <VdssSyncCH2Stage2>0</VdssSyncCH2Stage2>
+      <QgdSyncCH2Stage2>0</QgdSyncCH2Stage2>
+      <CossSyncCH2Stage2>0</CossSyncCH2Stage2>
+      <Rds2SyncCH2Stage2>0</Rds2SyncCH2Stage2>
+      <Qg2SyncCH2Stage2>0</Qg2SyncCH2Stage2>
+      <QgsSyncCH2Stage2>0</QgsSyncCH2Stage2>
+      <VmillerSyncCH2Stage2>0</VmillerSyncCH2Stage2>
+      <VthSyncCH2Stage2>0</VthSyncCH2Stage2>
+      <SyncMosfetLengthCH2Stage2>0</SyncMosfetLengthCH2Stage2>
+      <SyncMosfetWidthCH2Stage2>0</SyncMosfetWidthCH2Stage2>
+      <SyncMosfetHeightCH2Stage2>0</SyncMosfetHeightCH2Stage2>
+      <SyncMosfetPackageCH2Stage2 />
+      <SyncMosfetUserNoteCH2Stage2 />
+      <SyncFetCH3PartNameStage2 />
+      <NumOfCH3SyncMosfetsStage2>0</NumOfCH3SyncMosfetsStage2>
+      <RdsSyncCH3Stage2>0</RdsSyncCH3Stage2>
+      <QgSyncCH3Stage2>0</QgSyncCH3Stage2>
+      <RgateSyncCH3Stage2>0</RgateSyncCH3Stage2>
+      <VdiodeSyncFetsCH3Stage2>0</VdiodeSyncFetsCH3Stage2>
+      <SyncMosfetVendorCH3Stage2 />
+      <VdssSyncCH3Stage2>0</VdssSyncCH3Stage2>
+      <QgdSyncCH3Stage2>0</QgdSyncCH3Stage2>
+      <CossSyncCH3Stage2>0</CossSyncCH3Stage2>
+      <Rds2SyncCH3Stage2>0</Rds2SyncCH3Stage2>
+      <Qg2SyncCH3Stage2>0</Qg2SyncCH3Stage2>
+      <QgsSyncCH3Stage2>0</QgsSyncCH3Stage2>
+      <VmillerSyncCH3Stage2>0</VmillerSyncCH3Stage2>
+      <VthSyncCH3Stage2>0</VthSyncCH3Stage2>
+      <SyncMosfetLengthCH3Stage2>0</SyncMosfetLengthCH3Stage2>
+      <SyncMosfetWidthCH3Stage2>0</SyncMosfetWidthCH3Stage2>
+      <SyncMosfetHeightCH3Stage2>0</SyncMosfetHeightCH3Stage2>
+      <SyncMosfetPackageCH3Stage2 />
+      <SyncMosfetUserNoteCH3Stage2 />
+      <VforwardCH1>0</VforwardCH1>
+      <SchottkyVendorCH1 />
+      <SchottkyPartNameCH1 />
+      <NumOfSchottkyCH1>0</NumOfSchottkyCH1>
+      <VforwardCH2>0</VforwardCH2>
+      <SchottkyVendorCH2 />
+      <SchottkyPartNameCH2 />
+      <NumOfSchottkyCH2>0</NumOfSchottkyCH2>
+      <VforwardCH3>0</VforwardCH3>
+      <SchottkyVendorCH3 />
+      <SchottkyPartNameCH3 />
+      <NumOfSchottkyCH3>0</NumOfSchottkyCH3>
+      <VforwardCH4>0</VforwardCH4>
+      <SchottkyVendorCH4 />
+      <SchottkyPartNameCH4 />
+      <NumOfSchottkyCH4>0</NumOfSchottkyCH4>
+      <ExtvccVoltageCH1>0</ExtvccVoltageCH1>
+      <ExtvccVoltageCH2>0</ExtvccVoltageCH2>
+      <ExtvccVoltageCH3>0</ExtvccVoltageCH3>
+      <ExtvccVoltageCH4>0</ExtvccVoltageCH4>
+      <InductorCoreLossCH1>0</InductorCoreLossCH1>
+      <InductorCoreLossCH2>0</InductorCoreLossCH2>
+      <InductorCoreLossCH3>0</InductorCoreLossCH3>
+      <InductorCoreLossCH4>0</InductorCoreLossCH4>
+      <IcThetaJA>0</IcThetaJA>
+      <IcTa>25</IcTa>
+      <TopFetThermalImpedanceCH1>0</TopFetThermalImpedanceCH1>
+      <TopFetThermalImpedanceCH2>0</TopFetThermalImpedanceCH2>
+      <TopFetThermalImpedanceCH3>0</TopFetThermalImpedanceCH3>
+      <TopFetThermalImpedanceCH4>0</TopFetThermalImpedanceCH4>
+      <BotFetThermalImpedanceCH1>0</BotFetThermalImpedanceCH1>
+      <BotFetThermalImpedanceCH2>0</BotFetThermalImpedanceCH2>
+      <BotFetThermalImpedanceCH3>0</BotFetThermalImpedanceCH3>
+      <BotFetThermalImpedanceCH4>0</BotFetThermalImpedanceCH4>
+    </ConverterSpec>
+  </ConverterSpecs>
+  <ProgramUserInfos>
+    <ProgramUserInfo>
+      <LastRecordedSyncDate>2015-09-18T00:00:00</LastRecordedSyncDate>
+      <ReleaseType>Customer</ReleaseType>
+      <InstallationDate>2015-09-18T00:00:00</InstallationDate>
+      <LTpowerCADVer>2</LTpowerCADVer>
+      <LTpowerCADSubDesc>Release2</LTpowerCADSubDesc>
+      <LTpowerCADUpdateVer>2</LTpowerCADUpdateVer>
+      <LTpowerCADUpdateVerDate>2014-08-29T00:00:00</LTpowerCADUpdateVerDate>
+    </ProgramUserInfo>
+  </ProgramUserInfos>
+  <OutputRailDatas>
+    <OutputRailData>
+      <Freqmin>50</Freqmin>
+      <Freqmax>900</Freqmax>
+      <VinToCalc>12</VinToCalc>
+      <IoToCalc>12</IoToCalc>
+      <MinIoToCalc>0</MinIoToCalc>
+      <MaxVin>15</MaxVin>
+      <NomVin>12</NomVin>
+      <MinVin>9</MinVin>
+      <SwitchingFreq>493000</SwitchingFreq>
+      <OutputVol>6.94</OutputVol>
+      <OutputCur>15</OutputCur>
+      <NPh>1</NPh>
+      <NPhSlave>0</NPhSlave>
+      <NIc>1</NIc>
+      <InductorRipplePercentDesired>40</InductorRipplePercentDesired>
+      <Lo>1.2E-06</Lo>
+      <DCR>0.004</DCR>
+      <InductorManufacturer></InductorManufacturer>
+      <InductorPartNumber></InductorPartNumber>
+      <InductorLength>0</InductorLength>
+      <InductorWidth>0</InductorWidth>
+      <InductorHeight>0</InductorHeight>
+      <InductorUserNote />
+      <Cin>9.9999999999999991E-05</Cin>
+      <CinESR>0.03</CinESR>
+      <NCin>1</NCin>
+      <CinLength>0</CinLength>
+      <CinWidth>0</CinWidth>
+      <CinHeight>0</CinHeight>
+      <CinPackage />
+      <CinPartNumber></CinPartNumber>
+      <CinManufacturer></CinManufacturer>
+      <CinUserNote />
+      <CinAtHalfRated>0</CinAtHalfRated>
+      <CinAtFullRated>0</CinAtFullRated>
+      <CinAtNoVoltage>9.9999999999999991E-05</CinAtNoVoltage>
+      <CinDerated>0</CinDerated>
+      <CinVoltageRating>0</CinVoltageRating>
+      <CinCeramic>2.2E-05</CinCeramic>
+      <CinCeramicESR>0.005</CinCeramicESR>
+      <NCinCeramic>1</NCinCeramic>
+      <CinCeramicLength>0</CinCeramicLength>
+      <CinCeramicWidth>0</CinCeramicWidth>
+      <CinCeramicHeight>0</CinCeramicHeight>
+      <CinCeramicPackage />
+      <CinCeramicPartNumber></CinCeramicPartNumber>
+      <CinCeramicManufacturer></CinCeramicManufacturer>
+      <CinCeramicUserNote />
+      <CinCeramicAtHalfRated>0</CinCeramicAtHalfRated>
+      <CinCeramicAtFullRated>0</CinCeramicAtFullRated>
+      <CinCeramicAtNoVoltage>2.2E-05</CinCeramicAtNoVoltage>
+      <CinCeramicDerated>0</CinCeramicDerated>
+      <CinCeramicVoltageRating>0</CinCeramicVoltageRating>
+      <Cob>0.00021999999999999998</Cob>
+      <ESRb>0.01</ESRb>
+      <ESLb>2E-09</ESLb>
+      <Numb>1</Numb>
+      <BulkCapacitorManufacturer></BulkCapacitorManufacturer>
+      <BulkCapacitorPartNumber></BulkCapacitorPartNumber>
+      <BulkCapacitorLength>0</BulkCapacitorLength>
+      <BulkCapacitorWidth>0</BulkCapacitorWidth>
+      <BulkCapacitorHeight>0</BulkCapacitorHeight>
+      <BulkCapacitorPackage />
+      <BulkCapacitorUserNote />
+      <CobAtHalfRated>0</CobAtHalfRated>
+      <CobAtFullRated>0</CobAtFullRated>
+      <CobAtNoVoltage>0.00021999999999999998</CobAtNoVoltage>
+      <CobDerated>0</CobDerated>
+      <CobVoltageRating>0</CobVoltageRating>
+      <Coc>9.9999999999999991E-06</Coc>
+      <ESRc>0.003</ESRc>
+      <ESLc>8.0000000000000013E-10</ESLc>
+      <Numc>1</Numc>
+      <CeramicCapacitorManufacturer></CeramicCapacitorManufacturer>
+      <CeramicCapacitorPartNumber></CeramicCapacitorPartNumber>
+      <CeramicCapacitorLength>0</CeramicCapacitorLength>
+      <CeramicCapacitorWidth>0</CeramicCapacitorWidth>
+      <CeramicCapacitorHeight>0</CeramicCapacitorHeight>
+      <CeramicCapacitorPackage />
+      <CeramicCapacitorUserNote />
+      <CocAtHalfRated>0</CocAtHalfRated>
+      <CocAtFullRated>0</CocAtFullRated>
+      <CocAtNoVoltage>9.9999999999999991E-06</CocAtNoVoltage>
+      <CocDerated>0</CocDerated>
+      <CocVoltageRating>0</CocVoltageRating>
+      <CapacitorDeratingEnabled>false</CapacitorDeratingEnabled>
+      <Cth>2.2000000000000003E-09</Cth>
+      <Cthp>2.2000000000000004E-10</Cthp>
+      <Rth>7150</Rth>
+      <Ccomp>0</Ccomp>
+      <RfbTopActual>60400</RfbTopActual>
+      <RfbBotActual>7870</RfbBotActual>
+      <CfbTopActual>0</CfbTopActual>
+      <CfbBotActual>0</CfbBotActual>
+      <RfbBotTolerance>0</RfbBotTolerance>
+      <RfbTopTolerance>0</RfbTopTolerance>
+      <FcDesired>43750</FcDesired>
+      <PhaseBoostDesired>10</PhaseBoostDesired>
+      <PhaseMarginDesired>60</PhaseMarginDesired>
+      <Ilim>0.075</Ilim>
+      <VRNG>0</VRNG>
+      <MarginIoLimit>150</MarginIoLimit>
+      <Rsense>0.002</Rsense>
+      <RsenseLength>0</RsenseLength>
+      <RsenseWidth>0</RsenseWidth>
+      <RsenseHeight>0</RsenseHeight>
+      <RsensePackage />
+      <RsensePartNumber />
+      <RsenseManufacturer />
+      <RsenseUserNote />
+      <RsenseFilterR>20</RsenseFilterR>
+      <RsenseFilterC>1E-09</RsenseFilterC>
+      <SenseC>4.7E-08</SenseC>
+      <SenseRp>7150</SenseRp>
+      <SenseRs>4019.9999999999995</SenseRs>
+      <SenseRsDC>0</SenseRsDC>
+      <SenseCDC>0</SenseCDC>
+      <Vforward>0.5</Vforward>
+      <SchottkyVendor />
+      <SchottkyPartName />
+      <NumOfSchottky>1</NumOfSchottky>
+      <SchottkyVRRM>0</SchottkyVRRM>
+      <SchottkyID>0</SchottkyID>
+      <SchottkyPackage />
+      <SchottkyType />
+      <SchottkyLength>0</SchottkyLength>
+      <SchottkyWidth>0</SchottkyWidth>
+      <SchottkyHeight>0</SchottkyHeight>
+      <SchottkyUserNote />
+      <CurrentSensingConfigurationType>0</CurrentSensingConfigurationType>
+      <SynchronousOrNonSynchronousConfigurationType>0</SynchronousOrNonSynchronousConfigurationType>
+      <CompConfigurationType>0</CompConfigurationType>
+      <SwitchingFreqDesired>500000</SwitchingFreqDesired>
+      <Vfreq>0</Vfreq>
+      <Rfreq>69800</Rfreq>
+      <Vb>0</Vb>
+      <Rfreq2>0</Rfreq2>
+      <Vvon>0</Vvon>
+      <LoadStepLow>0</LoadStepLow>
+      <LoadStepHigh>7.5</LoadStepHigh>
+      <LoadStepSlewRate>10000000</LoadStepSlewRate>
+      <SlopeCompSlopePointForDesign>0</SlopeCompSlopePointForDesign>
+      <TonMin>9E-08</TonMin>
+      <ToffMin>0</ToffMin>
+      <ProjectName></ProjectName>
+      <ProjectDate></ProjectDate>
+      <ProjectDesigner></ProjectDesigner>
+      <DividerSelection />
+      <IlimSelection />
+      <RinSense>0</RinSense>
+      <RinSenseLength>0</RinSenseLength>
+      <RinSenseWidth>0</RinSenseWidth>
+      <RinSenseHeight>0</RinSenseHeight>
+      <RinSensePackage></RinSensePackage>
+      <RinSensePartNumber />
+      <RinSenseManufacturer />
+      <RinSenseUserNote />
+      <RoutSense>0</RoutSense>
+      <RoutSenseLength>0</RoutSenseLength>
+      <RoutSenseWidth>0</RoutSenseWidth>
+      <RoutSenseHeight>0</RoutSenseHeight>
+      <RoutSensePackage></RoutSensePackage>
+      <RoutSensePartNumber />
+      <RoutSenseManufacturer />
+      <RoutSenseUserNote />
+      <VinStartUp>9</VinStartUp>
+      <VSD_Desired>9</VSD_Desired>
+      <RHYST>0</RHYST>
+      <VRUN />
+      <RTUV>0</RTUV>
+      <RBUV>0</RBUV>
+      <VOV_Latch_Desired>9</VOV_Latch_Desired>
+      <VOV_NonLatch_Desired>9</VOV_NonLatch_Desired>
+      <RBOV>0</RBOV>
+      <RMOV>0</RMOV>
+      <RTOV>0</RTOV>
+      <RTOV_OVP>0</RTOV_OVP>
+      <RBOV_OVP>0</RBOV_OVP>
+      <COV_OVP>0</COV_OVP>
+      <VOVP_Desired>0</VOVP_Desired>
+      <PartLength>4</PartLength>
+      <PartWidth>3</PartWidth>
+      <PartHeight>0.8</PartHeight>
+      <PartUserNote />
+      <FootprintClearanceFactor>1</FootprintClearanceFactor>
+      <SenseCdcr2>0</SenseCdcr2>
+      <C3>0</C3>
+      <R3>0</R3>
+      <C1>0</C1>
+      <R2>0</R2>
+      <C2>0</C2>
+      <Z1>0</Z1>
+      <Z2>0</Z2>
+      <P1>0</P1>
+      <P2>0</P2>
+      <CompensatorGain>0</CompensatorGain>
+      <RLIM>0</RLIM>
+      <Vbias>0</Vbias>
+      <Gm>0</Gm>
+      <VinD>7</VinD>
+      <RPROG>0</RPROG>
+    </OutputRailData>
+  </OutputRailDatas>
+  <NotationLabelControls />
+</Root>
