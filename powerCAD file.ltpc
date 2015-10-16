@@ -9,7 +9,7 @@
       <NomVin>12</NomVin>
       <MaxVin>15</MaxVin>
       <SwitchingFreq>493000</SwitchingFreq>
-      <OutputVol1>5.99</OutputVol1>
+      <OutputVol1>8.8</OutputVol1>
       <OutputCur1>15</OutputCur1>
       <OutputVol2>0</OutputVol2>
       <OutputCur2>0</OutputCur2>
@@ -34,25 +34,25 @@
       <I2CorPMBusInterface>false</I2CorPMBusInterface>
       <UserEnteredPartNumber>0</UserEnteredPartNumber>
       <CurrentSensingConfiguration>0</CurrentSensingConfiguration>
-      <TopFetCH1PartName>FDMS7570S</TopFetCH1PartName>
+      <TopFetCH1PartName>SiR406DP</TopFetCH1PartName>
       <NumOfCH1TopMosfets>1</NumOfCH1TopMosfets>
-      <RdsOnTopCH1>0.00222</RdsOnTopCH1>
-      <QgTopCH1>2.49E-08</QgTopCH1>
-      <QgsTopCH1>9.9E-09</QgsTopCH1>
-      <QgdTopCH1>5.3E-09</QgdTopCH1>
-      <CossTopCH1>9.12E-10</CossTopCH1>
-      <RdsOn2TopCH1>0.0016</RdsOn2TopCH1>
-      <Qg2TopCH1>4.9E-08</Qg2TopCH1>
-      <VmillerTopCH1>3</VmillerTopCH1>
-      <VthTopCH1>2.1</VthTopCH1>
-      <RgateTopCH1>1.2</RgateTopCH1>
-      <TopMosfetVendorCH1>Fairchild</TopMosfetVendorCH1>
+      <RdsOnTopCH1>0.00381</RdsOnTopCH1>
+      <QgTopCH1>1.77E-08</QgTopCH1>
+      <QgsTopCH1>4.8E-09</QgsTopCH1>
+      <QgdTopCH1>4.4E-09</QgdTopCH1>
+      <CossTopCH1>5.61E-10</CossTopCH1>
+      <RdsOn2TopCH1>0.0031</RdsOn2TopCH1>
+      <Qg2TopCH1>3.3E-08</Qg2TopCH1>
+      <VmillerTopCH1>2.2</VmillerTopCH1>
+      <VthTopCH1>1.8</VthTopCH1>
+      <RgateTopCH1>0.85</RgateTopCH1>
+      <TopMosfetVendorCH1>Vishay</TopMosfetVendorCH1>
       <VdssTopCH1>25</VdssTopCH1>
-      <VdiodeTopCH1>0.78</VdiodeTopCH1>
-      <TopMosfetLengthCH1>6</TopMosfetLengthCH1>
-      <TopMosfetWidthCH1>5</TopMosfetWidthCH1>
-      <TopMosfetHeightCH1>1.1</TopMosfetHeightCH1>
-      <TopMosfetPackageCH1>POWER 56</TopMosfetPackageCH1>
+      <VdiodeTopCH1>0.73</VdiodeTopCH1>
+      <TopMosfetLengthCH1>6.25</TopMosfetLengthCH1>
+      <TopMosfetWidthCH1>5.26</TopMosfetWidthCH1>
+      <TopMosfetHeightCH1>1.12</TopMosfetHeightCH1>
+      <TopMosfetPackageCH1>POWER PAK-SO8</TopMosfetPackageCH1>
       <TopMosfetUserNoteCH1 />
       <TopFetCH2PartName></TopFetCH2PartName>
       <NumOfCH2TopMosfets>0</NumOfCH2TopMosfets>
@@ -94,25 +94,25 @@
       <TopMosfetHeightCH3>0</TopMosfetHeightCH3>
       <TopMosfetPackageCH3></TopMosfetPackageCH3>
       <TopMosfetUserNoteCH3></TopMosfetUserNoteCH3>
-      <BotFetCH1PartName>FDMS7570S</BotFetCH1PartName>
+      <BotFetCH1PartName>SiR406DP</BotFetCH1PartName>
       <NumOfCH1BotMosfets>1</NumOfCH1BotMosfets>
-      <RdsBotCH1>0.00222</RdsBotCH1>
-      <QgBotCH1>2.49E-08</QgBotCH1>
-      <RgateBotCH1>1.2</RgateBotCH1>
-      <VdiodeBotFetsCH1>0.78</VdiodeBotFetsCH1>
-      <BotMosfetVendorCH1>Fairchild</BotMosfetVendorCH1>
+      <RdsBotCH1>0.00381</RdsBotCH1>
+      <QgBotCH1>1.77E-08</QgBotCH1>
+      <RgateBotCH1>0.85</RgateBotCH1>
+      <VdiodeBotFetsCH1>0.73</VdiodeBotFetsCH1>
+      <BotMosfetVendorCH1>Vishay</BotMosfetVendorCH1>
       <VdssBotCH1>25</VdssBotCH1>
-      <QgdBotCH1>5.3E-09</QgdBotCH1>
-      <CossBotCH1>9.12E-10</CossBotCH1>
-      <Rds2BotCH1>0.0016</Rds2BotCH1>
-      <Qg2BotCH1>4.9E-08</Qg2BotCH1>
-      <QgsBotCH1>9.9E-09</QgsBotCH1>
-      <VmillerBotCH1>3</VmillerBotCH1>
-      <VthBotCH1>2.1</VthBotCH1>
-      <BotMosfetLengthCH1>6</BotMosfetLengthCH1>
-      <BotMosfetWidthCH1>5</BotMosfetWidthCH1>
-      <BotMosfetHeightCH1>1.1</BotMosfetHeightCH1>
-      <BotMosfetPackageCH1>POWER 56</BotMosfetPackageCH1>
+      <QgdBotCH1>4.4E-09</QgdBotCH1>
+      <CossBotCH1>5.61E-10</CossBotCH1>
+      <Rds2BotCH1>0.0031</Rds2BotCH1>
+      <Qg2BotCH1>3.3E-08</Qg2BotCH1>
+      <QgsBotCH1>4.8E-09</QgsBotCH1>
+      <VmillerBotCH1>2.2</VmillerBotCH1>
+      <VthBotCH1>1.8</VthBotCH1>
+      <BotMosfetLengthCH1>6.25</BotMosfetLengthCH1>
+      <BotMosfetWidthCH1>5.26</BotMosfetWidthCH1>
+      <BotMosfetHeightCH1>1.12</BotMosfetHeightCH1>
+      <BotMosfetPackageCH1>POWER PAK-SO8</BotMosfetPackageCH1>
       <BotMosfetUserNoteCH1 />
       <BotFetCH2PartName></BotFetCH2PartName>
       <NumOfCH2BotMosfets>0</NumOfCH2BotMosfets>
@@ -332,7 +332,7 @@
       <NomVin>12</NomVin>
       <MinVin>9</MinVin>
       <SwitchingFreq>493000</SwitchingFreq>
-      <OutputVol>5.99</OutputVol>
+      <OutputVol>8.8</OutputVol>
       <OutputCur>15</OutputCur>
       <NPh>1</NPh>
       <NPhSlave>0</NPhSlave>
@@ -340,14 +340,14 @@
       <InductorRipplePercentDesired>40</InductorRipplePercentDesired>
       <Lo>1.2E-06</Lo>
       <DCR>0.004</DCR>
-      <InductorManufacturer>nANA</InductorManufacturer>
+      <InductorManufacturer></InductorManufacturer>
       <InductorPartNumber></InductorPartNumber>
       <InductorLength>0</InductorLength>
       <InductorWidth>0</InductorWidth>
       <InductorHeight>0</InductorHeight>
       <InductorUserNote></InductorUserNote>
       <Cin>9.9999999999999991E-05</Cin>
-      <CinESR>0.03</CinESR>
+      <CinESR>0.01</CinESR>
       <NCin>1</NCin>
       <CinLength>0</CinLength>
       <CinWidth>0</CinWidth>
@@ -413,8 +413,8 @@
       <Cthp>8.2000000000000014E-11</Cthp>
       <Rth>5360</Rth>
       <Ccomp>0</Ccomp>
-      <RfbTopActual>60400</RfbTopActual>
-      <RfbBotActual>9310</RfbBotActual>
+      <RfbTopActual>10000</RfbTopActual>
+      <RfbBotActual>1000</RfbBotActual>
       <CfbTopActual>8.2E-11</CfbTopActual>
       <CfbBotActual>4.3E-10</CfbBotActual>
       <RfbBotTolerance>0</RfbBotTolerance>
@@ -468,7 +468,7 @@
       <TonMin>9E-08</TonMin>
       <ToffMin>0</ToffMin>
       <ProjectName>SOPHIA POWER SUPPLY</ProjectName>
-      <ProjectDate></ProjectDate>
+      <ProjectDate>30/09/2015</ProjectDate>
       <ProjectDesigner>NATNAEL SHEWANGIZAW</ProjectDesigner>
       <DividerSelection></DividerSelection>
       <IlimSelection></IlimSelection>
