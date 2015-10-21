@@ -9,7 +9,7 @@
       <NomVin>12</NomVin>
       <MaxVin>15</MaxVin>
       <SwitchingFreq>493000</SwitchingFreq>
-      <OutputVol1>5</OutputVol1>
+      <OutputVol1>5.99</OutputVol1>
       <OutputCur1>15</OutputCur1>
       <OutputVol2>0</OutputVol2>
       <OutputCur2>0</OutputCur2>
@@ -332,7 +332,7 @@
       <NomVin>12</NomVin>
       <MinVin>9</MinVin>
       <SwitchingFreq>493000</SwitchingFreq>
-      <OutputVol>5</OutputVol>
+      <OutputVol>5.99</OutputVol>
       <OutputCur>15</OutputCur>
       <NPh>1</NPh>
       <NPhSlave>0</NPhSlave>
@@ -414,7 +414,7 @@
       <Rth>5360</Rth>
       <Ccomp>0</Ccomp>
       <RfbTopActual>60400</RfbTopActual>
-      <RfbBotActual>11500</RfbBotActual>
+      <RfbBotActual>9310</RfbBotActual>
       <CfbTopActual>8.2E-11</CfbTopActual>
       <CfbBotActual>4.3E-10</CfbBotActual>
       <RfbBotTolerance>0</RfbBotTolerance>
