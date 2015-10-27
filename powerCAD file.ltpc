@@ -2,7 +2,7 @@
 <Root>
   <ConverterSpecs>
     <ConverterSpec>
-      <LastSavedFilesCultureInfo>en-US</LastSavedFilesCultureInfo>
+      <LastSavedFilesCultureInfo>en-GB</LastSavedFilesCultureInfo>
       <PartName>LTC3807</PartName>
       <OutputNum>One</OutputNum>
       <MinVin>9</MinVin>
@@ -34,25 +34,25 @@
       <I2CorPMBusInterface>false</I2CorPMBusInterface>
       <UserEnteredPartNumber>0</UserEnteredPartNumber>
       <CurrentSensingConfiguration>0</CurrentSensingConfiguration>
-      <TopFetCH1PartName>FDMS7570S</TopFetCH1PartName>
+      <TopFetCH1PartName>SiR438DP</TopFetCH1PartName>
       <NumOfCH1TopMosfets>1</NumOfCH1TopMosfets>
-      <RdsOnTopCH1>0.00222</RdsOnTopCH1>
-      <QgTopCH1>2.49E-08</QgTopCH1>
-      <QgsTopCH1>9.9E-09</QgsTopCH1>
-      <QgdTopCH1>5.3E-09</QgdTopCH1>
-      <CossTopCH1>9.12E-10</CossTopCH1>
-      <RdsOn2TopCH1>0.0016</RdsOn2TopCH1>
-      <Qg2TopCH1>4.9E-08</Qg2TopCH1>
-      <VmillerTopCH1>3</VmillerTopCH1>
-      <VthTopCH1>2.1</VthTopCH1>
-      <RgateTopCH1>1.2</RgateTopCH1>
-      <TopMosfetVendorCH1>Fairchild</TopMosfetVendorCH1>
+      <RdsOnTopCH1>0.00185</RdsOnTopCH1>
+      <QgTopCH1>3.67E-08</QgTopCH1>
+      <QgsTopCH1>9.7E-09</QgsTopCH1>
+      <QgdTopCH1>9.1E-09</QgdTopCH1>
+      <CossTopCH1>1.14E-09</CossTopCH1>
+      <RdsOn2TopCH1>0.00145</RdsOn2TopCH1>
+      <Qg2TopCH1>7E-08</Qg2TopCH1>
+      <VmillerTopCH1>2.2</VmillerTopCH1>
+      <VthTopCH1>1.7</VthTopCH1>
+      <RgateTopCH1>1</RgateTopCH1>
+      <TopMosfetVendorCH1>Vishay</TopMosfetVendorCH1>
       <VdssTopCH1>25</VdssTopCH1>
-      <VdiodeTopCH1>0.78</VdiodeTopCH1>
-      <TopMosfetLengthCH1>6</TopMosfetLengthCH1>
-      <TopMosfetWidthCH1>5</TopMosfetWidthCH1>
-      <TopMosfetHeightCH1>1.1</TopMosfetHeightCH1>
-      <TopMosfetPackageCH1>POWER 56</TopMosfetPackageCH1>
+      <VdiodeTopCH1>0.72</VdiodeTopCH1>
+      <TopMosfetLengthCH1>6.25</TopMosfetLengthCH1>
+      <TopMosfetWidthCH1>5.26</TopMosfetWidthCH1>
+      <TopMosfetHeightCH1>1.12</TopMosfetHeightCH1>
+      <TopMosfetPackageCH1>POWER PAK-SO8</TopMosfetPackageCH1>
       <TopMosfetUserNoteCH1 />
       <TopFetCH2PartName></TopFetCH2PartName>
       <NumOfCH2TopMosfets>0</NumOfCH2TopMosfets>
@@ -94,25 +94,25 @@
       <TopMosfetHeightCH3>0</TopMosfetHeightCH3>
       <TopMosfetPackageCH3></TopMosfetPackageCH3>
       <TopMosfetUserNoteCH3></TopMosfetUserNoteCH3>
-      <BotFetCH1PartName>FDMS7570S</BotFetCH1PartName>
+      <BotFetCH1PartName>SiR438DP</BotFetCH1PartName>
       <NumOfCH1BotMosfets>1</NumOfCH1BotMosfets>
-      <RdsBotCH1>0.00222</RdsBotCH1>
-      <QgBotCH1>2.49E-08</QgBotCH1>
-      <RgateBotCH1>1.2</RgateBotCH1>
-      <VdiodeBotFetsCH1>0.78</VdiodeBotFetsCH1>
-      <BotMosfetVendorCH1>Fairchild</BotMosfetVendorCH1>
+      <RdsBotCH1>0.00185</RdsBotCH1>
+      <QgBotCH1>3.67E-08</QgBotCH1>
+      <RgateBotCH1>1</RgateBotCH1>
+      <VdiodeBotFetsCH1>0.72</VdiodeBotFetsCH1>
+      <BotMosfetVendorCH1>Vishay</BotMosfetVendorCH1>
       <VdssBotCH1>25</VdssBotCH1>
-      <QgdBotCH1>5.3E-09</QgdBotCH1>
-      <CossBotCH1>9.12E-10</CossBotCH1>
-      <Rds2BotCH1>0.0016</Rds2BotCH1>
-      <Qg2BotCH1>4.9E-08</Qg2BotCH1>
-      <QgsBotCH1>9.9E-09</QgsBotCH1>
-      <VmillerBotCH1>3</VmillerBotCH1>
-      <VthBotCH1>2.1</VthBotCH1>
-      <BotMosfetLengthCH1>6</BotMosfetLengthCH1>
-      <BotMosfetWidthCH1>5</BotMosfetWidthCH1>
-      <BotMosfetHeightCH1>1.1</BotMosfetHeightCH1>
-      <BotMosfetPackageCH1>POWER 56</BotMosfetPackageCH1>
+      <QgdBotCH1>9.1E-09</QgdBotCH1>
+      <CossBotCH1>1.14E-09</CossBotCH1>
+      <Rds2BotCH1>0.00145</Rds2BotCH1>
+      <Qg2BotCH1>7E-08</Qg2BotCH1>
+      <QgsBotCH1>9.7E-09</QgsBotCH1>
+      <VmillerBotCH1>2.2</VmillerBotCH1>
+      <VthBotCH1>1.7</VthBotCH1>
+      <BotMosfetLengthCH1>6.25</BotMosfetLengthCH1>
+      <BotMosfetWidthCH1>5.26</BotMosfetWidthCH1>
+      <BotMosfetHeightCH1>1.12</BotMosfetHeightCH1>
+      <BotMosfetPackageCH1>POWER PAK-SO8</BotMosfetPackageCH1>
       <BotMosfetUserNoteCH1 />
       <BotFetCH2PartName></BotFetCH2PartName>
       <NumOfCH2BotMosfets>0</NumOfCH2BotMosfets>
@@ -312,7 +312,7 @@
   </ConverterSpecs>
   <ProgramUserInfos>
     <ProgramUserInfo>
-      <LastRecordedSyncDate>2015-10-21T00:00:00</LastRecordedSyncDate>
+      <LastRecordedSyncDate>2015-10-26T00:00:00</LastRecordedSyncDate>
       <ReleaseType>Customer</ReleaseType>
       <InstallationDate>2015-09-18T00:00:00</InstallationDate>
       <LTpowerCADVer>2</LTpowerCADVer>
